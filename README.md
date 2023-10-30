@@ -9,5 +9,6 @@ There are 3 files:
 * `trainvae.py`: Main code, training and testing. You can change `EPOCHS` and `BATCH_SIZE`. The models and images are placed in a directory `vaemodels-??????`, where `??????` are 6 random characters.
 * `utils.py`: a couple of small utility functions.
 * `genpics.py`: creates a panel of original image + 7 reconstructed ones.
+* `vae_model_20.pth`: a trained VAE
 
 While the code can run on a CPU — it's slow. Hopefully, you've access to a GPU 😊.
