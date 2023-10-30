@@ -1,7 +1,7 @@
 # vae-torch-celeba
 A Variational Autoencoder in PyTorch for the CelebA Dataset.
 
-This repo provides the full code for my Medium article:
+Accompanying code for my Medium article:
 [A Variational Autoencoder in PyTorch for the CelebA Dataset](https://medium.com/@sipper/a-basic-variational-autoencoder-in-pytorch-for-the-celeba-dataset-f29c75316b26).
 
 Files:
