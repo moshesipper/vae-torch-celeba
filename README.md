@@ -10,4 +10,5 @@ Files:
 * `genpics.py`: creates a panel of original image + 7 reconstructed ones.
 * `vae_model_20.pth`: a trained VAE.
 
-While the code can run on a CPU — it's slow. Hopefully, you've access to a GPU 😊.
+Running a trained model on a CPU is fine. 
+Training on a CPU is possible, but slow 👉 GPU.
