@@ -12,4 +12,4 @@ Files:
 
 Running a trained model on a CPU is fine. 
 
-Training on a CPU is possible, but slow 👉 GPU.
+Training on a CPU is possible, but slow fast ⚡👉 GPU.
