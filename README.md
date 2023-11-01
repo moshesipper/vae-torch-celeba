@@ -1,7 +1,8 @@
 # vae-torch-celeba
 
 Accompanying code for my Medium article:
-[A Variational Autoencoder in PyTorch for the CelebA Dataset](https://medium.com/@sipper/a-basic-variational-autoencoder-in-pytorch-for-the-celeba-dataset-f29c75316b26).
+[A Basic Variational Autoencoder in PyTorch Trained on the CelebA Dataset
+](https://medium.com/the-generator/a-basic-variational-autoencoder-in-pytorch-trained-on-the-celeba-dataset-f29c75316b26).
 
 Files:
 * `vae.py`: Class `VAE` + some definitions. You can change `IMAGE_SIZE`, `LATENT_DIM`, and `CELEB_PATH`.
